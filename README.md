@@ -29,7 +29,7 @@
 # Como Executa o Projeto
 
 - Pode fazer o download e executa na sua IDE de preferencia
-- Obs: Dentro da Subpastas obj/Debug , tem o programa executavel
+- Obs: Dentro da pasta cadastro,  Subpastas dist , tem o programa executavel
 
 
 # Autor
